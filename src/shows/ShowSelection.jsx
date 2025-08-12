@@ -15,4 +15,4 @@ export default function ShowSelection({ shows, setSelectedShow }) {
         </a>
       ))}
     </nav>
-}
+)}
